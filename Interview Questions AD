@@ -1,0 +1,42 @@
+	
+
+	what is Azure Repos?
+    Azure repos are the vcs which stores the code and monitors the pull requests, commits, and code changes.
+   
+	what is difference between organisation and project in Azure Devops?
+    Organization is the collection of all projects and a project is created under org.
+
+	what is branch and how many types of branches we have?
+    Branch is a unique place and name where the code changes happens.
+1.	Development Branch
+2.	Feature Branch
+3.	Hot Fix Branch
+4.	Release Branch
+   
+	what is Pull Request?
+Pull requests – Let others know that I have did some changes in the branch and it is ready for review. Once it is reviewed, merged in the base branch by the unique person who does the merges.
+
+	What is Git LFS?
+  Git LFS is a git extension used to manage large files and binary files in a separate Git repository.
+
+	How to restrict the repos?
+  In github > Profile> Organizations>Settings>left side – Member Previliges>we need to restrict public, private and internal.
+  
+	How do you change the default branch name for the repositories? or
+	How to restrict you branches?
+Under Repository>settings>branches left side>branch protection rules>edit and save.
+ 
+	
+	Branching strategy?
+  Easier integration of changes and releases to coordinate work.
+
+	how do you create multiple repositories in Azurerepos
+Under repos>new ‘n’repositories can be created.
+
+	How do you import your repositories from other tools?
+	
+                   Click on import repository under repos(top middle) enter the url of the other tool>name it>import
+
+
+What is Azure Devops?
+                Azure Devops is a combination of VCS like Svn, git perforce etc, CI/CD tools like Jenkins, Bamboo and teamcity etc, project management tools like jira and wiki, test plans, articfacts, build tools like ant, maven ect, located in a single dashboard. 
